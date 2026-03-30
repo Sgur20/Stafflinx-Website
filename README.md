@@ -10,6 +10,7 @@ The website is built using **Vite + React** and is designed to be fast, responsi
 
 Stafflinx helps businesses:
 - Hire trained and reliable cleaning staff
+- Courier Service
 - Find workforce solutions for commercial and residential cleaning
 - Manage staffing needs efficiently
 - Connect employers with qualified cleaning professionals
