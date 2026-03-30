@@ -13,7 +13,7 @@ Stafflinx helps businesses:
 - Courier Service
 - Find workforce solutions for commercial and residential cleaning
 - Manage staffing needs efficiently
-- Connect employers with qualified cleaning professionals
+- Connect employers with qualified cleaning professionals.
 
 ---
 
